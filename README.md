@@ -19,8 +19,8 @@ By leveraging **machine learning**, we can analyze churn patterns and provide va
 ---
 
 ## 📸 Screenshots
-![alt text](Capture1.PNG)
-![alt text](Capture.PNG)
+![alt text](screenshots/Capture.PNG)
+![alt text](screenshots/Capture1.PNG)
 
 ## 🛠️ **Technologies Used**
 
